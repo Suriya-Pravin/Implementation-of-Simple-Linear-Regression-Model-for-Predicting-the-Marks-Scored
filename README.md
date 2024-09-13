@@ -89,8 +89,8 @@ print("RMSE= ",rmse)
 ### MSE,MAE and RMSE
 ![output](./images/values.png)
 ### Training Set
-![output](./images/train.png)
+![output](./images/train.jpg)
 ### Testing Set
-![output](./images/test.png)
+![output](./images/test.jpg)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
